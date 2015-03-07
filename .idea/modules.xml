@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/csssample.iml" filepath="$PROJECT_DIR$/.idea/modules/csssample.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/csssample-build.iml" filepath="$PROJECT_DIR$/.idea/modules/csssample-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloscalafx.iml" filepath="$PROJECT_DIR$/.idea/modules/helloscalafx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helloscalafx-build.iml" filepath="$PROJECT_DIR$/.idea/modules/helloscalafx-build.iml" />
     </modules>
   </component>
 </project>
